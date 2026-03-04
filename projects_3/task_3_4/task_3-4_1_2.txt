@@ -1,0 +1,12 @@
+ls -l -a -h -1
+
+total 28K
+drwxr-x--- 3 katarina_sss katarina_sss 4.0K Feb 24 12:57 .
+drwxr-xr-x 3 root         root         4.0K Feb 24 12:49 ..
+-rw------- 1 katarina_sss katarina_sss   42 Feb 24 12:57 .bash_history
+-rw-r--r-- 1 katarina_sss katarina_sss  220 Feb 24 12:49 .bash_logout
+-rw-r--r-- 1 katarina_sss katarina_sss 3.7K Feb 24 12:49 .bashrc
+drwx------ 2 katarina_sss katarina_sss 4.0K Feb 24 12:50 .cache
+-rw-rw-r-- 1 katarina_sss katarina_sss    0 Mar  3 13:56 .motd_shown
+-rw-r--r-- 1 katarina_sss katarina_sss  807 Feb 24 12:49 .profile
+-rw-r--r-- 1 katarina_sss katarina_sss    0 Feb 24 12:51 .sudo_as_admin_successful
